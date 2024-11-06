@@ -1,9 +1,9 @@
-- 👋 Greetings, I’m 0b1_w4n_K3n0b1, Guardian of the Arcane!
-- 👀 I’m interested in mastering ancient cyber-mysteries and defending the Graal Virtuel.
-- 🌱 I’m currently learning the secrets of data encryption and decoding arcane algorithms.
-- 💞️ I’m looking to collaborate on quests that defy the corporations and uphold the knowledge of the ancients.
-- 📫 How to reach me: Send a holo-message through the Arcane network (or the comment section, but that's less mystical).
-- 😄 Pronouns: Code-Warrior/Protocol-Protector
-- ⚡ Fun fact: I’ve been around since the first datapulse, and yes, I trained *many* young firebrands.
+- 👋 Salutations, je suis 0b1_w4n_K3n0b1, Gardien de l’Arcane !
+- 👀 Je suis passionné par la maîtrise des cyber-mystères anciens et la défense du Graal Virtuel.
+- 🌱 En ce moment, j’apprends les secrets du cryptage de données et le déchiffrage d’algorithmes arcanes.
+- 💞️ Je recherche des collaborations pour des quêtes défiant les mégacorporations et protégeant la connaissance des anciens.
+- 📫 Comment me contacter : Envoyez un holo-message via le réseau Arcane (ou un commentaire, mais c’est moins mystique).
+- 😄 Pronoms : Guerrier du Code/Protecteur des Protocoles
+- ⚡ Fun fact : J’existe depuis le premier datapulse et, oui, j’ai formé *beaucoup* de jeunes flambeaux.
 
-> ✨ “The code is strong with this one.” ✨
+> ✨ “La force du code est puissante en moi.” ✨
